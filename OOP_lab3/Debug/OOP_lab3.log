@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+D:\УНИВЕР\ООП\LABY_PART2\LR3_full\my_lab3\OOP_lab3\Employee.cpp(85,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\УНИВЕР\ООП\LABY_PART2\LR3_full\my_lab3\OOP_lab3\Employee.cpp(105,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\УНИВЕР\ООП\LABY_PART2\LR3_full\my_lab3\OOP_lab3\Employee.cpp(107,25): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP_lab3.vcxproj -> D:\УНИВЕР\ООП\LABY_PART2\LR3_full\my_lab3\OOP_lab3\Debug\OOP_lab3.exe

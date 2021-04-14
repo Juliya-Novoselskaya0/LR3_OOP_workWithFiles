@@ -1,0 +1,7 @@
+D:\Source\Repos\OOP_lab3\Debug\OOP_lab3.exe
+D:\Source\Repos\OOP_lab3\Debug\OOP_lab3.pdb
+D:\Лабы_ООП\OOP_lab3\Debug\OOP_lab3.exe
+D:\Лабы_ООП\OOP_lab3\Debug\OOP_lab3.pdb
+D:\УНИВЕР\ООП\LABY_PART2\Вика\OOP_lab3 (1)\OOP_lab3\Debug\OOP_lab3.exe
+D:\УНИВЕР\ООП\LABY_PART2\Вика\my_lab3\OOP_lab3\Debug\OOP_lab3.exe
+D:\УНИВЕР\ООП\LABY_PART2\LR3_full\my_lab3\OOP_lab3\Debug\OOP_lab3.exe
